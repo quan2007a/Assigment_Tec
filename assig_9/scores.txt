@@ -1,0 +1,6 @@
+long,69
+Hiếu,67
+Khanh,18
+Nam,37
+Bách,36
+Thiện,57
